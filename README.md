@@ -51,6 +51,7 @@ Extract the following files into the `data/` folder:
 - Predictions are generated using data.tables with precomputed n-gram frequency tables.
 
 Refer `Code_review.pdf` for more details.
+
 ---
 
 ## Evaluation Techniques
