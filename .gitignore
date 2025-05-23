@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.RDataTmp
+data/en_US.blogs.txt
+data/en_US.news.txt
+data/en_US.twitter.txt

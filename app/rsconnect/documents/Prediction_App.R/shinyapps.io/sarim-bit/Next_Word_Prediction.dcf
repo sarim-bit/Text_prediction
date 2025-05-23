@@ -1,0 +1,12 @@
+name: Next_Word_Prediction
+title: Next_Word_Prediction
+username: sarim-bit
+account: sarim-bit
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14805230
+bundleId: 10323176
+url: https://sarim-bit.shinyapps.io/Next_Word_Prediction/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
