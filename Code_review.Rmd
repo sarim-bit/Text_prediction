@@ -2,11 +2,15 @@
 title: "Predictive Text Model - Code Overview"
 author: "Sarim Rizvi"
 output:
+  pdf_document:
+    toc: true
   html_document:
     toc: true
     toc_float: true
     number_sections: false
     theme: readable
+  word_document:
+    toc: true
 ---
 
 # Introduction
